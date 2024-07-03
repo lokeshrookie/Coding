@@ -23,7 +23,7 @@
 - [ ] 
 
 #NeetCode - 150
-- [ ] Contains Duplicates
+- [x] Contains Duplicates
 - [ ] Valid Anargams
 - [ ] Group Anargams
 - [ ] Two sum
