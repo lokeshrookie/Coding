@@ -1,0 +1,30 @@
+# IntelliJ IDEA specific files
+/.idea/
+*.iml
+*.iws
+
+# Output directories
+target/
+out/
+
+# Maven generated files
+.mvn/
+
+# OS specific temporary files
+# macOS / Linux
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Class files
+*.class
+
+# Log files
+*.log
+
+# IDE generated settings
+*.settings
+
+# Dependency lock files (adjust based on your build tool)
+*.lock
