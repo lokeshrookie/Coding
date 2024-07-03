@@ -25,7 +25,7 @@
 #NeetCode - 150
 - [ ] Contains Duplicates
 - [ ] Valid Anargams
-- [ ] Group Anargams
+- [x] Group Anargams
 - [ ] Two sum
 - [ ] Top K Frequent Elements
 
