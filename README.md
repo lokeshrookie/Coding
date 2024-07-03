@@ -19,6 +19,12 @@
   - [ ] Merge Sort
   - [ ] Quick Sort
 - [ ] Collection Framework
+  - [ ] ArrayList
+  - [ ] Stack
+  - [ ] Queue
+  - [ ] LinkedList
+  - [ ] HashMap
+  - [ ] HashSet
 
 - [ ] 
 
