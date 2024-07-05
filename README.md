@@ -40,3 +40,19 @@
 # StriverSheet
 - [ ] Set Matrix Zeroes
 
+<details>
+<summary>Click to toggle contents of `code`</summary>
+
+# C-Sharp
+- [ ] Strings
+- [ ] Arrays
+- [ ] Collections
+- [ ] 
+
+
+```
+CODE!
+```
+</details>
+
+
