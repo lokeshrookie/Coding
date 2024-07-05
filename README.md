@@ -2,10 +2,8 @@
 
 
 <details>
-<summary>Java>
+<summary> Java </summary>
 
-
-# Fundamentals
 - [ ] Time and Space Complexity
 - [ ] Loops
   - [ ] Patterns
@@ -49,7 +47,7 @@
 - [ ] Set Matrix Zeroes
 
 <details>
-<summary># C-Sharp>
+<summary> C-Sharp </summary>
 
 # C-Sharp
 - [ ] Strings
