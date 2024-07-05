@@ -2,7 +2,7 @@
 
 
 <details>
-<summary># Java>
+<summary>Java>
 
 
 # Fundamentals
