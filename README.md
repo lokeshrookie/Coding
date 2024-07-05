@@ -1,5 +1,10 @@
 # NeetCode150
 
+
+<details>
+<summary># Java>
+
+
 # Fundamentals
 - [ ] Time and Space Complexity
 - [ ] Loops
@@ -26,7 +31,10 @@
   - [ ] HashMap
   - [ ] HashSet
 
-- [ ] 
+
+
+</details>
+
 
 #NeetCode - 150
 - [x] Contains Duplicates
@@ -41,7 +49,7 @@
 - [ ] Set Matrix Zeroes
 
 <details>
-<summary>Click to toggle contents of `code`</summary>
+<summary># C-Sharp>
 
 # C-Sharp
 - [ ] Strings
